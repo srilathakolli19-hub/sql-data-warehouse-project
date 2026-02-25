@@ -1,3 +1,23 @@
+/*
+===========================================================
+Stored procedure:load silver layer(bronze->silver)
+===========================================================
+Script purpose:
+      this stored procedure performs etl(extract,transform,load) process to
+      populate the 'silver' schema tables from the 'bronze' schema.
+Actions performed:
+      -truncates silver tables
+      -inserts transformed and cleansed data from bronze into silver tables.
+Parameters:
+      None.
+      This stored procedure does not accept any parameters or return any values.
+Usage example:
+      EXEC silver.load_silver;
+===========================================================
+*/
+
+
+
 use DataWarehouse;
 go
 
