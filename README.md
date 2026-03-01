@@ -33,6 +33,8 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 ---
+## Data warehouse Architecture
+![Data Warehouse Architecture](docs/docs/DATAWAREHOUSE ARCHITECTURE.png)
 
 ## 📄 License
 
