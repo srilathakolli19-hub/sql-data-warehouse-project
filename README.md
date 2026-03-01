@@ -34,7 +34,11 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 ## Data warehouse Architecture
-![Data Warehouse Architecture](docs/docs/DATAWAREHOUSE ARCHITECTURE.png)
+<h2 align="center">🏗️ Data Warehouse Architecture</h2>
+
+<p align="center">
+  <img src="docs/DATAWAREHOUSE_ARCHITECTURE.png" width="900"/>
+</p>
 
 ## 📄 License
 
