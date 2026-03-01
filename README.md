@@ -21,6 +21,8 @@ Developing fact and dimension tables optimized for analytical queries.
 🔹 Analytics and Reporting:
 Creating SQL-based reports and dashboards to deliver actionable insights.
 
+
+
 🚀 Who This Repository Is For
 
 This repository is an excellent resource for professionals and students looking to showcase expertise in:
@@ -68,7 +70,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 </p>
 
 
-📂 Repository Structure
 
 
 ## 📂 Repository Structure
