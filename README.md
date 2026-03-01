@@ -5,7 +5,34 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ---
 
+📌 Project Overview
+
+This project involves:
+🔹 Data Architecture
+
+Designing a modern data warehouse using Medallion Architecture with Bronze, Silver, and Gold layers.
+🔹 ETL Pipelines
+
+Extracting, transforming, and loading data from source systems into the data warehouse.
+🔹 Data Modeling
+
+Developing fact and dimension tables optimized for analytical queries.
+🔹 Analytics and Reporting
+
+Creating SQL-based reports and dashboards to deliver actionable insights.
+
+🚀 Who This Repository Is For
+
+This repository is an excellent resource for professionals and students looking to showcase expertise in:
+1)SQL Development
+2)Data Architecture
+3)Data Engineering
+4)ETL Pipeline Development
+5)Data Modeling
+6)Data Analytics
+
 ## 🚀 Project Requirements
+
 
 ### Building the Data Warehouse (Data Engineering)
 
