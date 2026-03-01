@@ -67,6 +67,46 @@ These insights empower stakeholders with key business metrics, enabling strategi
   <img src="docs/DATAWAREHOUSE_ARCHITECTURE.png" width="900"/>
 </p>
 
+
+📂 Repository Structure
+
+
+
+├── README.md
+├── LICENSE
+├── init_database.sql
+
+├── datasets/
+│   ├── CRM/
+│   │   ├── customer_info.csv
+│   │   ├── prd_info.csv
+│   │   └── sales_details.csv
+│   └── ERP/
+│       ├── CUST_AZ12.csv
+│       ├── LOC_A101.csv
+│       └── PX_CAT_G1V2.csv
+
+├── docs/
+│   ├── Data_Warehouse_Architecture.png
+│   ├── Data_Flow.png
+│   ├── Data_Model.png
+│   ├── Data_Catalog.txt
+│   └── Star_Schema.png
+
+├── scripts/
+│   ├── Bronze/
+│   │   ├── ddl_bronze.sql
+│   │   └── proc_load_bronze.sql
+│   ├── Silver/
+│   │   ├── ddl_silver.sql
+│   │   └── proc_load_silver.sql
+│   └── Gold/
+│       └── ddl_gold.sql
+
+└── tests/
+    ├── qualitychecks_silver.sql
+    └── qualitychecks_gold.sql
+
 ## 📄 License
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
